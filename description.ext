@@ -1,0 +1,7 @@
+// -1 - Dont respawn on start. Don't run respawn script on start.
+// 0 - Dont respawn on start. Run respawn script on start.
+// 1 - Respawn on start. Run respawn script on start.
+
+respawnOnStart = 1;
+// loading screen image
+loadScreen = "image\parabellum.jpg";
