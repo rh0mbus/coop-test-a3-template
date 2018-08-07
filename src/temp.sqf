@@ -20,10 +20,15 @@ this addVest "V_TacVestIR_blk";
 this addItemToVest "HandGrenade";
 this addItemToVest "MiniGrenade";
 for "_i" from 1 to 2 do {this addItemToVest "SmokeShell";};
+for "_i" from 1 to 3 do {this addItemToVest "20Rnd_762x51_Mag";};
+this addBackpack "B_Patrol_Respawn_bag_F";
 this addHeadgear "H_HelmetSpecO_blk";
 this addGoggles "G_Balaclava_TI_blk_F";
 
 comment "Add weapons";
+this addWeapon "srifle_DMR_06_olive_F";
+this addPrimaryWeaponItem "muzzle_snds_B";
+this addPrimaryWeaponItem "optic_DMS";
 this addWeapon "hgun_Rook40_F";
 this addHandgunItem "muzzle_snds_L";
 this addWeapon "Rangefinder";
