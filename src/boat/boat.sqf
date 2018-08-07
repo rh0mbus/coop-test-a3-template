@@ -3,7 +3,7 @@
 if(isServer) then {
 
 	// The delay on refilling the container
-	delay = 120;
+	delay = 1200;
 	_crate = _this select 0;
 
 	// Always Run
