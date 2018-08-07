@@ -1,5 +1,3 @@
-// Use this script for explosive boxes
-
 if(isServer) then {
 
 	// The delay on refilling the container
